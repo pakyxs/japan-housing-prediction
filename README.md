@@ -28,7 +28,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
      - CatBoost fue líder en validación cruzada, mientras que XGBoost tuvo más consistencia en validación.
 
 2. **Modelos Menos Adecuados**:
-   - **KNN** tuvo un desempeño bajo, con un R² de aproximadamente 0.31 y errores significativos (MAE y RMSE).
+   - **KNN** tuvo un mal desempeño, con un R² bajo y errores significativos (MAE y RMSE).
 
 3. **Impacto del Ajuste de Hiperparámetros**:
    - No se observó una mejora significativa tras el tuning, posiblemente por:
@@ -65,5 +65,5 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
 ```
 
 ## Contacto
-Para dudas o sugerencias, por favor contactame en rodrigomoreiraginarte@gmail.com
+Para dudas o sugerencias, por favor contactame a rodrigomoreiraginarte@gmail.com
 
