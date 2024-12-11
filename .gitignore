@@ -1,3 +1,4 @@
+.gitignore
 /data/raw/trade_prices
 /data/raw/prefecture_code.csv
 /src
