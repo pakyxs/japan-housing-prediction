@@ -46,7 +46,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
 ## Uso del Proyecto
 1. Clona este repositorio:
    ```bash
-   git clone <URL del repositorio>
+   git clone https://github.com/pakyxs/urbandata-proof-data-science.git
    ```
 2. Instala las dependencias:
    ```bash
@@ -65,5 +65,5 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
 ```
 
 ## Contacto
-Para dudas o sugerencias, por favor contacta a Rodrigo.
+Para dudas o sugerencias, por favor contactame en rodrigomoreiraginarte@gmail.com
 
