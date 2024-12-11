@@ -1,7 +1,5 @@
 import sys
 import os
-# Añadir el directorio 'functions' al sys.path
-sys.path.append(os.path.abspath(os.path.join('..', 'functions')))
 
 import pandas as pd
 import numpy as np
