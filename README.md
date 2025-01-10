@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) - Predicción de precios de viviendas en Japón
+# Predicción de precios de viviendas en Japón
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (EDA) para predecir los precios de venta de viviendas en Japón. Se utilizan varios algoritmos de machine learning para identificar el modelo más adecuado basado en su desempeño en diferentes métricas de evaluación.
